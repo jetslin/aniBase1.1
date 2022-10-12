@@ -79,7 +79,7 @@ export default function SearchAppBar() {
             component="div"
             sx={{ flexGrow: 1, display: { xs: 'none', sm: 'block' } }}
           >
-            <Link to="/aniBase1.1" className="mainNav__homelink">aniBase</Link>
+            <Link to="/aniBase1.1/" className="mainNav__homelink">aniBase</Link>
           </Typography>
       
           <Search onSubmit={handleSearch}>
