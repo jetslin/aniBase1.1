@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aniBase1.1/static/css/main.e94808f1.css",
+    "main.js": "/aniBase1.1/static/js/main.c2c41955.js",
+    "index.html": "/aniBase1.1/index.html",
+    "main.e94808f1.css.map": "/aniBase1.1/static/css/main.e94808f1.css.map",
+    "main.c2c41955.js.map": "/aniBase1.1/static/js/main.c2c41955.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e94808f1.css",
+    "static/js/main.c2c41955.js"
+  ]
+}
