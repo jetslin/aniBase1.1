@@ -30,7 +30,7 @@ const SingleAnime = (props) => {
           <Typography variant="h5" component="h2">
             Rating: {rating}
           </Typography>
-          <a href={url} target="_blank">MAL</a>
+          <a href={url}>MAL</a>
         </Paper>
       </Grid>
     </Grid>

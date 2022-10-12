@@ -36,9 +36,9 @@ function App() {
       <MainNavigation/>
       <main>
         <Routes>
-          <Route path="/aniBase" element={<Home/>}/>
-          <Route path="/aniBase/results" element={<Results/>}/>
-          <Route path="/aniBase/single-view" element={<SingleView/>}/>
+          <Route path="/aniBase1.1" element={<Home/>}/>
+          <Route path="/results" element={<Results/>}/>
+          <Route path="/single-view" element={<SingleView/>}/>
         </Routes>
       </main>
       

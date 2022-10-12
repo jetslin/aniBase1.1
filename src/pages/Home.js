@@ -15,7 +15,7 @@ const Home = () => {
         search.search(input).then((data) => {
             search.setData(data.data);
             localStorage.setItem('myData', JSON.stringify(data.data));
-            navigate("/aniBase/results");
+            navigate("/results");
         });
     };
 

@@ -15,7 +15,7 @@ const AnimeCard = (props) => {
     .then((data) => {
       search.setSingle(data);
       localStorage.setItem('singleData', JSON.stringify(data));
-      navigate("/aniBase/single-view");
+      navigate("/single-view");
     })
   }
 
