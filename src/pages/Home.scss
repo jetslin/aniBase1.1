@@ -1,0 +1,25 @@
+.home__search {
+  border-radius: 5px;
+  padding: 7px;
+  z-index: 20;
+  margin: -.25em;
+  background-color: #e9e9eb;
+}
+
+.home__formControl {
+  display: flex !important;
+  flex-direction: row !important;
+}
+
+.home__searchIcon {
+  margin: 5px;
+}
+
+.home__input {
+  flex: 5;
+}
+
+.home__iconButton {
+  flex: 3;
+  padding: 2em;
+}

@@ -1,0 +1,39 @@
+// * {
+//   background: #000 !important;
+//   color: #0f0 !important;
+//   outline: solid #f00 1px !important;
+// }
+
+.animeList__list {
+  display: flex;
+  box-sizing: border-box;
+  padding: 50px;
+  flex-wrap: wrap;
+  margin-top: 32px;
+  width: 100%;
+  height: 100%;
+  justify-content: space-between;
+  align-items: left;
+  overflow-x: hidden; 
+
+
+  img {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 250px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 16px;
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.15);
+    margin: 1em;
+    padding: 0;
+    transition: 0.4s;
+  }
+
+  img:hover {
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.25);
+    transform: scale(0.95);
+  }
+
+}
