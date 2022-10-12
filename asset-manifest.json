@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/aniBase1.1/static/css/main.e94808f1.css",
-    "main.js": "/aniBase1.1/static/js/main.65439760.js",
+    "main.js": "/aniBase1.1/static/js/main.ac20269e.js",
     "index.html": "/aniBase1.1/index.html",
     "main.e94808f1.css.map": "/aniBase1.1/static/css/main.e94808f1.css.map",
-    "main.65439760.js.map": "/aniBase1.1/static/js/main.65439760.js.map"
+    "main.ac20269e.js.map": "/aniBase1.1/static/js/main.ac20269e.js.map"
   },
   "entrypoints": [
     "static/css/main.e94808f1.css",
-    "static/js/main.65439760.js"
+    "static/js/main.ac20269e.js"
   ]
 }
